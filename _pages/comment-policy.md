@@ -1,7 +1,8 @@
 ---
 title: "Comment Policy"
 permalink: /comment/
-author_profile: false
+author_profile: true
+layout: single
 ---
 
 ## 제 블로그에서 지켜주셔야 할것
