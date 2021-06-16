@@ -32,7 +32,7 @@ last_modified_at: 2021-06-16T10:38:40+09:00
 
 
 # 프로젝트 생성
-저는 여기서 ionLayer(18)'>인텔리제이를 이용해서 바로 ionLayer(19)'>생성할것이며 Ultimate 버전이 ionLayer(20)'>아니신분은 [여기](https://start.spring.io)에서 만드셔도 됩니다. 똑같습니다.
+저는 여기서 인텔리제이를 이용해서 바로 생성할것이며 Ultimate 버전이 아니신분은 [여기](https://start.spring.io)에서 만드셔도 됩니다. 똑같습니다.
 
 ![project setting](/assets/images/gamesite/2/1.png)
 1. Location은 자신에게 편한 위치로 설정.
