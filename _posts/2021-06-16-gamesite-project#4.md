@@ -8,7 +8,7 @@ tags:
 - JPA
 - GameSite Project
 
-last_modified_at: 2021-06-20T16:55:10+09:00
+last_modified_at: 2021-06-16T16:55:10+09:00
 
 ---
 
