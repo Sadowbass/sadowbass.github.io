@@ -2,7 +2,7 @@
 title: "첫번째 프로젝트 : Gamesite 프로젝트 생성"
 
 categories:
-- GameSite Project
+- GameSite-Project
 tags:
 - SpringBoot
 - JPA
