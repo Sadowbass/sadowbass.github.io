@@ -49,7 +49,7 @@ Setter는 엔티티에서 쓰지 않습니다.
 좋은 예시들은 이펙티브자바 책에 잘 나와 있으니 꼭 읽어보세요.  
 
 보시면 Long 타입의 id가 뭔가 싶으실텐데 이건 JPA와 DB에서 사용되는 PK값이며 여기서는 단순히 1씩 올라가는 Long타입 값을 이용하겠습니다.  
-위의 구조는 흔히 볼수있는 Java Bean 객체입니다. JPA의 Entity는 아니니 저것을 JPA에서 이용할수있는 Entity로 만들겠습니다.
+위의 구조는 흔히 볼수있는 Java Bean처럼 생긴 객체입니다(Setter가 없음으로 정확히는 Java Bean도 아닙니다). JPA의 Entity는 아니니 저것을 JPA에서 이용할수있는 Entity로 만들겠습니다.
 
 ```java
 @Entity
