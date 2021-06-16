@@ -75,6 +75,7 @@ yml파일의 주의점은 반드시 콜론(:) 뒤에 1칸의 여백이 있어야
 자세한 것은 구글링을 통해 확인하시면 됩니다.
 
 ![application.yml](/assets/images/gamesite/2/9.png)  
+*org.hibernate.type.descriptor.sql: trace <- descripter 오타입니다 descriptor로 해야 파라미터가 보입니다*  
 
 1. server
     * port: 포트설정입니다.
