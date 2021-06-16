@@ -36,7 +36,7 @@ last_modified_at: 2021-06-16T10:38:40+09:00
 
 ![project setting](/assets/images/gamesite/2/1.png)
 1. Location은 자신에게 편한 위치로 설정.
-2. Maven과 Gradle중 편한 걸 쓰면 되는데 요즘 다들 Gradle을 쓰는 추세라고 해서 Gradle로 진행합니다. (사실 저도 쓸 줄 몰라서 고생 중입니다... 공부할게 끝도 없어요)
+2. Maven과 Gradle중 편한 걸 쓰면 되는데 요즘 다들 Gradle을 쓰는 추세라고 해서 Gradle로 진행합니다. (사실 저도 쓸 줄 몰라서 고생 중입니다.\.. 공부할게 끝도 없어요)
 3. Group, Artifact 역시 본인에게 편한대로 설정해주세요.
 4. Java는 11버전 쓰도록 하겠습니다. 8이상이면 크게 문제는 없는데 새롭게 시작하는 프로젝트에서 충분히 안정화가 되어있는 신버전이 아닌 구버전을 쓰는 건 개인적으로 좋아하지 않습니다.
 
@@ -50,7 +50,7 @@ last_modified_at: 2021-06-16T10:38:40+09:00
 ![build.gradle](/assets/images/gamesite/2/3.png)
 *이것과 같은 모양의 build.gradle이 생성됩니다*
 
-여기서 저희는 Tomcat을 빼고 Undertow를 넣어보겠습니다, 안 써본 거 다 써보는 게 개인프로젝트의 최장점 아니겠습니까?  
+여기서 저희는 Tomcat을 빼고 Undertow를 넣어보겠습니다. 안 써본 거 다 써보는 게 개인프로젝트의 최장점 아니겠습니까?  
 Undertow에 관한 링크
 [#1](https://zepinos.tistory.com/35)
 [#2](https://zepinos.tistory.com/50)
