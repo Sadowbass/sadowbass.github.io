@@ -1,7 +1,8 @@
 # main links
+#https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 main:
   - title: "Categories"
-    url: "/categories/"#https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: "/categories/"
   - title: "About"
     url: "/about/"
   # - title: "About"
