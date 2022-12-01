@@ -1,5 +1,5 @@
 ---
-title: "Java를 이용한 Discord Bot 만들기 #1 - 개발을 하게된 이유"
+title: "Java를 이용한 Discord Bot 만들기 #2 - JDA 시작하기"
 
 categories:
 - Discord-Bot
